@@ -3,7 +3,7 @@
 
 This project aims to classify images to help enforce COVID Mask Rules.
 
-**Introduction**: The mask-mandate for protection against the COVID-19 pandemic has affected the field of facial recognition, where a need has risen to recognise faces with masks on. Efficient recognition systems are expected to check that faces are masked in regulated areas. This coursework is focuses on the facial recognition used to check if the detected face is correctly masked or unmasked, which can help with the enforcing the mask mandate. As an added level of complexity, this coursework looks at detecting incorrectly placed masks as well. Many people do not wear the masks correctly simply due to bad practice, lack of understanding or due to vulnerabilities of individuals. The class labels for this classification task have been chosen as:
+**Introduction**: The mask-mandate for protection against the COVID-19 pandemic has affected the field of facial recognition, where a need has risen to recognise faces with masks on. Efficient recognition systems are expected to check that faces are masked in regulated areas. This project focuses on the facial recognition used to check if the detected face is correctly masked or unmasked, which can help with the enforcing the mask mandate. As an added level of complexity, this coursework looks at detecting incorrectly placed masks as well. Many people do not wear the masks correctly simply due to bad practice, lack of understanding or due to vulnerabilities of individuals. The class labels for this classification task have been chosen as:
 
 - Unmasked
 
