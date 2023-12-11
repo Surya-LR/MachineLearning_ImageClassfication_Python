@@ -42,6 +42,17 @@ The incorrectly labelled and unclear images were removed. The masked and incorre
 
 - IncorrectlyMasked: 100
 
+## The combination of preprocessing and classifiers
+
+The Layout of the experiments in terms of the processing and classifiers used is shown in the image below:
+
+![image](https://github.com/Surya-LR/MachineLearning_ImageClassfication_Python/assets/77691667/2e08f159-4ac5-4990-b62b-583cf7425de1)
+
+
+Layout of the two submitted files are shown below:
+
+![image](https://github.com/Surya-LR/MachineLearning_ImageClassfication_Python/assets/77691667/ba248c7c-5429-47ae-b15f-6f6093a4c064)
+
   
 ## The training and testing framework for the classfiers
 
