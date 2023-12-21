@@ -1,4 +1,4 @@
-# MachineLearning Project for Image Classfication in Python 
+# Machine Learning Project for Image Classfication in Python 
 **Coded in Python using Google Colab**
 
 This project aims to classify images to help enforce COVID Mask Rules.
